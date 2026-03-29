@@ -1,0 +1,63 @@
+---
+title: "project-plan"
+author: "Addie DiPaolo and Abby Johnson"
+format:
+  html:
+    embed-resources: true
+toc: true
+---
+
+## 1. Administrative Information
+
+**App Title:** U.S. Legislation Explorer
+
+**Course:** DATA-413
+
+**Group Members:**  
+- Addie DiPaolo  
+- Abby Johnson 
+
+## 2. Topic and Data
+
+### 2.1 Context
+
+Understanding U.S. legislation can be difficult for the general public due to the fragmented nature of available data sources and the complexity of congressional processes. Information about bills—such as sponsors, party support, vote outcomes, and chamber of origin—is often spread across multiple platforms and presented in formats that are not easily searchable or comparable.
+
+This project aims to develop an interactive Shiny application that aggregates and simplifies access to legislative data. The app will allow users to explore, filter, and analyze current U.S. legislation in a centralized, user-friendly interface.
+
+
+### 2.2 Literature Review
+
+### 2.3 Data Sources
+
+
+## 3 Use Case 
+
+### 3.1 Use Case and Actor Description
+
+### 3.2 Actor Questions of Interest
+
+### 3.3 Anticipated Workflow for the Actor
+
+
+## 4 Ethical Review 
+
+
+## 5 App Concept 
+
+### 5.1 Layout 
+
+### 5.2 User data selection and manipulation
+
+### 5.3 Exploratory numerical/graphical analysis
+
+### 5.4 Statistical models and tests
+
+
+## 6 Collaboration 
+
+### 6.1 Names and Responsibilities 
+
+### 6.2 Approach to Team workflow
+
+### 6.3 Schedule 
